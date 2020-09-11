@@ -11,90 +11,90 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(3).pdf" style="text-decoration:none;">Deep contextualized word representations</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(4).pdf" style="text-decoration:none;">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(5).pdf" style="text-decoration:none;">Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(6).pdf" style="text-decoration:none;">Exploiting Similarities among Languages for Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(7).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(6).pdf" style="text-decoration:none;">Assessing BERT's Syntactic Abilities</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(7).pdf" style="text-decoration:none;">Cross-lingual Language Model Pretraining</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(8).pdf" style="text-decoration:none;"> Embedding Word Similarity with Neural Machine Translation</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(9).pdf" style="text-decoration:none;">Improving zero-shot learning by mitigating the hubness problem</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(8).pdf" style="text-decoration:none;"> BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(9).pdf" style="text-decoration:none;">Distilling Task-Specific Knowledge from BERT into Simple Neural Networks</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(10).pdf" style="text-decoration:none;">Adam: A Method for Stochastic Optimization</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(11).pdf" style="text-decoration:none;">Effective Approaches to Attention-based Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(12).pdf" style="text-decoration:none;">Neural Machine Translation of Rare Words with Subword Units</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(13).pdf" style="text-decoration:none;">Multi-task Sequence to Sequence Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(10).pdf" style="text-decoration:none;">VideoBERT: A Joint Model for Video and Language Representation Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(11).pdf" style="text-decoration:none;">75 Languages, 1 Model: Parsing Universal Dependencies Universally</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(12).pdf" style="text-decoration:none;">Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(13).pdf" style="text-decoration:none;">ERNIE: Enhanced Representation through Knowledge Integration</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(14).pdf" style="text-decoration:none;">Improving Neural Machine Translation Models with Monolingual Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(14).pdf" style="text-decoration:none;">Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(15).pdf" style="text-decoration:none;">Sequence Level Training with Recurrent Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(15).pdf" style="text-decoration:none;">Model Compression with Multi-Task Knowledge Distillation for Web-scale Question Answering System</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(16).pdf" style="text-decoration:none;">Multi-Source Neural Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(16).pdf" style="text-decoration:none;">MASS: Masked Sequence to Sequence Pre-training for Language Generation</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(17).pdf" style="text-decoration:none;">Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(17).pdf" style="text-decoration:none;">Unified Language Model Pre-training for Natural Language Understanding and Generation</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(18).pdf" style="text-decoration:none;">Incorporating Structural Alignment Biases into an Attentional Neural Translation Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(18).pdf" style="text-decoration:none;">What do you learn from context? Probing for sentence structure in contextualized word representations</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(19).pdf" style="text-decoration:none;">Zero-Resource Translation with Multi-Lingual Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(19).pdf" style="text-decoration:none;">Are Sixteen Heads Really Better than One?</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(20).pdf" style="text-decoration:none;"> An Actor-Critic Algorithm for Sequence Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(20).pdf" style="text-decoration:none;"> Defending Against Neural Fake News</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(21).pdf" style="text-decoration:none;">Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(22).pdf" style="text-decoration:none;">Neural Machine Translation in Linear Time</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(23).pdf" style="text-decoration:none;">Neural Machine Translation with Reconstruction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(21).pdf" style="text-decoration:none;">Blackbox meets blackbox: Representational Similarity and Stability Analysis of Neural Language Models and Brains</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(22).pdf" style="text-decoration:none;">Open Sesame: Getting Inside BERT’s Linguistic Knowledge</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(23).pdf" style="text-decoration:none;">Visualizing and Measuring the Geometry of BERT</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(24).pdf" style="text-decoration:none;">Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Tra</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(24).pdf" style="text-decoration:none;">Analyzing the Structure of Attention in a Transformer Language Model</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(25).pdf" style="text-decoration:none;">Neural Machine Translation and Sequence-to-sequence Models: A Tutorial</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(26).pdf" style="text-decoration:none;">A Structured Self-attentive Sentence Embedding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(27).pdf" style="text-decoration:none;">Sequence-to-Sequence Models Can Directly Translate Foreign Speech</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(25).pdf" style="text-decoration:none;">What Does BERT Look At?
+An Analysis of BERT's Attention</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(26).pdf" style="text-decoration:none;">Learning Video Representations using Contrastive Bidirectional Transformer</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(27).pdf" style="text-decoration:none;">Pre-Training with WholeWord Masking for Chinese BERT</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(28).pdf" style="text-decoration:none;">Convolutional Sequence to Sequence Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(28).pdf" style="text-decoration:none;">XLNet: Generalized Autoregressive Pretraining for Language Understanding</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(29).pdf" style="text-decoration:none;">A Survey of Cross-lingual Word Embedding Models</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(29).pdf" style="text-decoration:none;">SpanBERT: Improving Pre-training by Representing and Predicting Spans</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(30).pdf" style="text-decoration:none;">Dual Supervised Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(30).pdf" style="text-decoration:none;">RoBERTa: A Robustly Optimized BERT Pretraining Approach</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(31).pdf" style="text-decoration:none;">DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(32).pdf" style="text-decoration:none;">Statistical Machine Translation</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(31).pdf" style="text-decoration:none;">Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(32).pdf" style="text-decoration:none;">ERNIE 2.0: A Continual Pre-training Framework for Language Understanding</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(33).pdf" style="text-decoration:none;">Attentive Convolution:
-Equipping CNNs with RNN-style Attention Mechanisms</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(33).pdf" style="text-decoration:none;">What BERT is not: Lessons from a new suite of psycholinguistic diagnostics for language models</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(34).pdf" style="text-decoration:none;">Non-Autoregressive Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(34).pdf" style="text-decoration:none;">ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(35).pdf" style="text-decoration:none;">Learning to Remember Translation History with a Continuous Cache</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(35).pdf" style="text-decoration:none;">VisualBERT: A Simple and Performant Baseline for Vision and Language</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(36).pdf" style="text-decoration:none;">Improved English to Russian Translation by Neural Suffix Prediction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(36).pdf" style="text-decoration:none;">On Identifiability in Transformers</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(37).pdf" style="text-decoration:none;">Asynchronous Bidirectional Decoding for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(38).pdf" style="text-decoration:none;">Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(39).pdf" style="text-decoration:none;">Zero-Resource Neural Machine Translation with Multi-Agent Communication Game</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(40).pdf" style="text-decoration:none;">Tied Multitask Learning for Neural Speech Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(41).pdf" style="text-decoration:none;">Analyzing Uncertainty in Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(42).pdf" style="text-decoration:none;">Fast Decoding in Sequence Models Using Discrete Latent Variables</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(37).pdf" style="text-decoration:none;">Fusion of Detected Objects in Text for Visual Question Answering</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(38).pdf" style="text-decoration:none;">Visualizing and Understanding the Effectiveness of BERT</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(39).pdf" style="text-decoration:none;">Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(40).pdf" style="text-decoration:none;">Universal Adversarial Triggers for Attacking and Analyzing NLP</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(41).pdf" style="text-decoration:none;">LXMERT: Learning Cross-Modality Encoder Representations from Transformers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(42).pdf" style="text-decoration:none;">VL-BERT: Pre-training of Generic Visual-Linguistic Representations</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(43).pdf" style="text-decoration:none;">Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(44).pdf" style="text-decoration:none;">SEQ2SEQ-VIS : A Visual Debugging Tool for Sequence-to-Sequence Models</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(45).pdf" style="text-decoration:none;">A Reinforcement Learning Approach to Interactive-Predictive Neural Machine Translation</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(43).pdf" style="text-decoration:none;">Well-Read Students Learn Better: On the Importance of Pre-training Compact Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(44).pdf" style="text-decoration:none;">Patient Knowledge Distillation for BERT Model Compression</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(45).pdf" style="text-decoration:none;">Transformer Dissection: A Unified Understanding of Transformer's Attention via the Lens of Kernel</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(46).pdf" style="text-decoration:none;">Fusing Recency into Neural Machine Translation with an Inter-Sentence Gate Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(46).pdf" style="text-decoration:none;">Small and Practical BERT Models for Sequence Labeling</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(47).pdf" style="text-decoration:none;">The price of debiasing automatic metrics in natural language evaluation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(48).pdf" style="text-decoration:none;">"Bilingual Expert" Can Find Translation Errors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(47).pdf" style="text-decoration:none;">How Contextual are ContextualizedWord Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(48).pdf" style="text-decoration:none;">Language Models as Knowledge Bases?</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(49).pdf" style="text-decoration:none;">Neural Machine Translation of Text from Non-Native Speakers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(49).pdf" style="text-decoration:none;">The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(50).pdf" style="text-decoration:none;">Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(51).pdf" style="text-decoration:none;">MS-UEdin Submission to the WMT2018 APE Shared Task: Dual-Source Transformer for Automatic Post-Editing</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(52).pdf" style="text-decoration:none;">Pre-training on high-resource speech recognition improves low-resource speech-to-text translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(50).pdf" style="text-decoration:none;">Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(51).pdf" style="text-decoration:none;">Knowledge Enhanced ContextualWord Representations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(52).pdf" style="text-decoration:none;">MultiFiT: Efficient Multi-lingual Language Model Fine-tuning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(53).pdf" style="text-decoration:none;">FRAGE: Frequency-Agnostic Word Representation </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(53).pdf" style="text-decoration:none;">How Does BERT Answer Questions? A Layer-Wise Analysis of Transformer Representations </a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(54).pdf" style="text-decoration:none;">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(54).pdf" style="text-decoration:none;">Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(55).pdf" style="text-decoration:none;">Latent Variable Model for Multi-modal Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(55).pdf" style="text-decoration:none;">K-BERT: Enabling Language Representation with Knowledge Graph</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(56).pdf" style="text-decoration:none;">Addressing Word-order Divergence in Multilingual Neural Machine Translation for extremely Low Resource Languages </a></li>                              
 
