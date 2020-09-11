@@ -4,13 +4,13 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(1).pdf" style="text-decoration:none;">Forest Rescoring: Faster Decoding with Integrated Language Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(1).pdf" style="text-decoration:none;">Semi-supervised Sequence Learning</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(2).pdf" style="text-decoration:none;">Online adaptation strategies for statistical machine translation in post-editing scenarios</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(2).pdf" style="text-decoration:none;">Unsupervised Pretraining for Sequence to Sequence Learning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(3).pdf" style="text-decoration:none;">Cost-sensitive active learning for computer-assisted translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(4).pdf" style="text-decoration:none;">Target-Text Mediated Interactive Machine Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(5).pdf" style="text-decoration:none;">Dual Inference for Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(3).pdf" style="text-decoration:none;">Deep contextualized word representations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(4).pdf" style="text-decoration:none;">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(5).pdf" style="text-decoration:none;">Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(6).pdf" style="text-decoration:none;">Exploiting Similarities among Languages for Machine Translation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Pre-trained-Languge-Model-Papers/blob/master/ptl(7).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></li>
 
