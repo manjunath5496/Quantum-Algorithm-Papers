@@ -237,7 +237,7 @@ in Scalar Quantum Field Theories</a></li>
      
 <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(123).pdf" style="text-decoration:none;">Quantum computation of discrete logarithms in semigroups</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(124).pdf" style="text-decoration:none;">A Constructive Quantum Lovasz Local Lemma for Commuting Projectors</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(124).pdf" style="text-decoration:none;">A Constructive Quantum Lovasz Local Lemma for Commuting Projectors</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(125).pdf" style="text-decoration:none;">A reduction of semigroup DLP to classic DLP</a></li>   
    
@@ -382,7 +382,7 @@ for (Gapped) Group Testing and Junta Testing</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(204).pdf" style="text-decoration:none;">Quantum-Assisted Learning of Hardware-Embedded Probabilistic Graphical Models</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(205).pdf" style="text-decoration:none;">Quantum Speed-ups for Semidefinite Programming</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(206).pdf" style="text-decoration:none;">Extended Learning Graphs for Triangle Finding</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(207).pdf" style="text-decoration:none;">Time and Space Ecient Quantum Algorithms for Detecting Cycles and Testing Bipartiteness</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(207).pdf" style="text-decoration:none;">Time and Space Efficient Quantum Algorithms for Detecting Cycles and Testing Bipartiteness</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(208).pdf" style="text-decoration:none;">Hamiltonian Simulation by Qubitization</a></li> 
  
