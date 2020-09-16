@@ -503,164 +503,175 @@ Matrices and Quadratic Residues</a></li>
  
  
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(271).pdf" style="text-decoration:none;">Geometry-aware Domain Adaptation for Unsupervised Alignment of Word Embeddings</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(271).pdf" style="text-decoration:none;">Exponential algorithmic speedup by quantum walk</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(272).pdf" style="text-decoration:none;">Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(272).pdf" style="text-decoration:none;">Hidden Translation and Translating Coset in Quantum Computing</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(273).pdf" style="text-decoration:none;">A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(274).pdf" style="text-decoration:none;">A Retrieve-and-Rewrite Initialization Method for Unsupervised Machine Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(275).pdf" style="text-decoration:none;">A Simple and Effective Unified Encoder for Document-Level Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(276).pdf" style="text-decoration:none;">Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(277).pdf" style="text-decoration:none;">SimulSpeech: End-to-End Simultaneous Speech to Text Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(273).pdf" style="text-decoration:none;">The Hidden Subgroup Problem in Affine Groups: Basis Selection in Fourier Sampling</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(274).pdf" style="text-decoration:none;">Quantum Algorithms for some Hidden Shift Problems</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(275).pdf" style="text-decoration:none;">Classical and Quantum Polynomial
+Reconstruction via Legendre Symbol Evaluation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(276).pdf" style="text-decoration:none;">Adiabatic Quantum State Generation and Statistical Zero Knowledge</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(277).pdf" style="text-decoration:none;">Shor's discrete logarithm quantum algorithm for elliptic curves</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(278).pdf" style="text-decoration:none;"> Modeling Word Formation in Englishâ€“German Neural Machine Translation</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(279).pdf" style="text-decoration:none;">Multimodal Transformer for Multimodal Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(278).pdf" style="text-decoration:none;"> Primality Proving via One Round in ECPP and One Iteration in AKS</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(279).pdf" style="text-decoration:none;">A subexponential-time quantum algorithm for the dihedral hidden subgroup problem</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(280).pdf" style="text-decoration:none;">Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(281).pdf" style="text-decoration:none;">AdvAug: Robust Adversarial Augmentation for Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(282).pdf" style="text-decoration:none;">Improving Neural Machine Translation with Soft Template Prediction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(283).pdf" style="text-decoration:none;">Tagged Back-translation Revisited: Why Does It Really Work?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(280).pdf" style="text-decoration:none;">Quantum Algorithms for Lowest Weight Paths and Spanning Trees in Complete Graphs</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(281).pdf" style="text-decoration:none;">Quantum query complexity of graph connectivity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(282).pdf" style="text-decoration:none;">Quantum Computation and Lattice Problems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(283).pdf" style="text-decoration:none;">Spatial search by quantum walk</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(284).pdf" style="text-decoration:none;">Are we Estimating or Guesstimating Translation Quality?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(284).pdf" style="text-decoration:none;">
+The geometry of quantum learning </a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(285).pdf" style="text-decoration:none;">Highway Transformer: Self-Gating Enhanced Self-Attentive Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(285).pdf" style="text-decoration:none;">On the Quantum Computational Complexity of the Ising Spin Glass Partition Function and of Knot Invariants</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(286).pdf" style="text-decoration:none;">Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(286).pdf" style="text-decoration:none;">Quantum Algorithms for the Triangle Problem</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(287).pdf" style="text-decoration:none;">Gender in Danger?
-Evaluating Speech Translation Technology on the MuST-SHE Corpus</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(287).pdf" style="text-decoration:none;">Quantum walk algorithm for element distinctness</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(288).pdf" style="text-decoration:none;">In Neural Machine Translation, What Does Transfer Learning Transfer?</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(288).pdf" style="text-decoration:none;">Quantum algorithms for subset finding</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(289).pdf" style="text-decoration:none;">BLEURT: Learning Robust Metrics for Text Generation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(289).pdf" style="text-decoration:none;">Spectra of Quantized Walks and a √δε-Rule</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(290).pdf" style="text-decoration:none;">Addressing Posterior Collapse with Mutual Information for Improved Variational Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(290).pdf" style="text-decoration:none;">The quantum query complexity of the hidden subgroup problem is polynomial</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(291).pdf" style="text-decoration:none;">Parallel Corpus Filtering via Pre-trained Language Models</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(292).pdf" style="text-decoration:none;">Sequence to Sequence Learning with Neural Networks</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(293).pdf" style="text-decoration:none;">Dual Learning for Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(291).pdf" style="text-decoration:none;">Quantum query complexity of some graph problems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(292).pdf" style="text-decoration:none;">Quantum Computing and Zeroes of Zeta Functions</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(293).pdf" style="text-decoration:none;">Adiabatic Quantum Computation is Equivalent to Standard Quantum Computation</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(294).pdf" style="text-decoration:none;">Decoding with Value Networks for Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(294).pdf" style="text-decoration:none;">Fast Quantum Algorithm for Numerical Gradient Estimation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(295).pdf" style="text-decoration:none;">Deliberation Networks: Sequence Generation Beyond One-Pass Decoding</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(296).pdf" style="text-decoration:none;">Attention Is All You Need</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(297).pdf" style="text-decoration:none;">Learned in Translation: Contextualized Word Vectors</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(295).pdf" style="text-decoration:none;">A Subexponential Time Algorithm for the Dihedral Hidden Subgroup Problem with Polynomial Space</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(296).pdf" style="text-decoration:none;">Quantum Verification of Matrix Products</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(297).pdf" style="text-decoration:none;">The Hidden Subgroup Problem-Review and Open Problems</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(298).pdf" style="text-decoration:none;">Generative Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(298).pdf" style="text-decoration:none;">Quantum computation of zeta functions of curves</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(299).pdf" style="text-decoration:none;">MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(299).pdf" style="text-decoration:none;">Efficient Quantum Algorithms for the Hidden Subgroup Problem over Semi-direct Product Groups</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(300).pdf" style="text-decoration:none;">Learning to Teach with Dynamic Loss Functions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(300).pdf" style="text-decoration:none;">Sequential generation of entangled multi-qubit states</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(301).pdf" style="text-decoration:none;">Layer-Wise Coordination between Encoder and Decoder for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(301).pdf" style="text-decoration:none;">Implementing the asymptotically fast version of the elliptic curve primality proving algorithm</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(302).pdf" style="text-decoration:none;">Blockwise Parallel Decoding for Deep Autoregressive Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(302).pdf" style="text-decoration:none;">A different kind of quantum search</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(303).pdf" style="text-decoration:none;">Comparing UnsupervisedWord Translation Methods Step by Step</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(304).pdf" style="text-decoration:none;">Neural Machine Translation with Soft Prototype</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(305).pdf" style="text-decoration:none;">Levenshtein Transformer</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(306).pdf" style="text-decoration:none;">A Latent Morphology Model for Open-Vocabulary Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(307).pdf" style="text-decoration:none;">Reinforced Curriculum Learning on Pre-trained Neural Machine Translation Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(303).pdf" style="text-decoration:none;">Quantum Search Algorithms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(304).pdf" style="text-decoration:none;">From optimal measurement to efficient quantum algorithms for the hidden subgroup problem over semidirect product groups</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(305).pdf" style="text-decoration:none;">A new algorithm for fixed point quantum search</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(306).pdf" style="text-decoration:none;">Quantum Complexity of
+Testing Group Commutativity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(307).pdf" style="text-decoration:none;">Quantum algorithm for a
+generalized hidden shift problem</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(308).pdf" style="text-decoration:none;">Alignment by Agreement </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(309).pdf" style="text-decoration:none;">A Study of Translation Edit Rate with Targeted Human Annotation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(308).pdf" style="text-decoration:none;">Quantum basin hopping with gradient-based local optimisation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(309).pdf" style="text-decoration:none;">Efficient quantum algorithms for simulating sparse Hamiltonians</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(310).pdf" style="text-decoration:none;">Are Transformers universal approximators of sequence-to-sequence functions? </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(311).pdf" style="text-decoration:none;">Ensemble Learning for Multi-Source Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(312).pdf" style="text-decoration:none;">Improving Attention Modeling with Implicit Distortion and Fertility for Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(313).pdf" style="text-decoration:none;">Inducing Bilingual Lexica From Non-Parallel Data With Earth Mover's Distance Regularization</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(310).pdf" style="text-decoration:none;">Quantum Algorithms for Matching
+and Network Flows </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(311).pdf" style="text-decoration:none;">Quantum Algorithm for Commutativity Testing of a Matrix Set</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(312).pdf" style="text-decoration:none;">Simulating lattice gauge theories on a quantum computer</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(313).pdf" style="text-decoration:none;">A Polynomial Quantum Algorithm for Approximating the Jones Polynomial</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(314).pdf" style="text-decoration:none;">Modeling Coherence for Neural Machine Translation with Dynamic and Topic Caches</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(314).pdf" style="text-decoration:none;">How to Make the Quantum Adiabatic Algorithm Fail</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(315).pdf" style="text-decoration:none;">Improving Neural Machine Translation by Incorporating Hierarchical Subword Features</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(315).pdf" style="text-decoration:none;">The Quantum Schur Transform:
+I. Efficient Qudit Circuits</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(316).pdf" style="text-decoration:none;">A Comparison of Transformer and Recurrent Neural Networks on Multilingual Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(316).pdf" style="text-decoration:none;">The Jones polynomial: quantum algorithms and applications in quantum complexity theory</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(317).pdf" style="text-decoration:none;">On Adversarial Examples for Character-Level Neural Machine Translation</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(317).pdf" style="text-decoration:none;">Bounds for the adiabatic approximation with applications to quantum computation</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(318).pdf" style="text-decoration:none;">Leveraging Meta-Embeddings for Bilingual Lexicon Extraction from Specialized Comparable Corpora</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(318).pdf" style="text-decoration:none;">Notes on the hidden subgroup problem on some semi-direct product groups</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(319).pdf" style="text-decoration:none;">Refining Source Representations with Relation Networks for Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(319).pdf" style="text-decoration:none;">Simulated Quantum Computation of Molecular Energies</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(320).pdf" style="text-decoration:none;">A Survey of Domain Adaptation for Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(320).pdf" style="text-decoration:none;">The BQP-hardness of approximating the Jones Polynomial</a></li>
 
  
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(321).pdf" style="text-decoration:none;">Incorporating Syntactic Uncertainty in Neural Machine Translation with a Forest-to-Sequence Model</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(321).pdf" style="text-decoration:none;">q - Deformed Spin Networks, Knot
+Polynomials and Anyonic Topological Quantum Computation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(322).pdf" style="text-decoration:none;">Fast and Accurate Reordering with ITG Transition RNN</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(322).pdf" style="text-decoration:none;">The Complexity of Stoquastic Local Hamiltonian Problems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(323).pdf" style="text-decoration:none;">Neural Machine Translation with Decoding-History Enhanced Attention</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(324).pdf" style="text-decoration:none;">Variational Attention for Sequence-to-Sequence Models</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(325).pdf" style="text-decoration:none;">Information Aggregation via Dynamic Routing for Sequence Encoding</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(326).pdf" style="text-decoration:none;">Multi-layer Representation Fusion for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(327).pdf" style="text-decoration:none;">Adaptive Weighting for Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(323).pdf" style="text-decoration:none;">Estimating Diagonal Entries of Powers of Sparse Symmetric Matrices is BQP-complete</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(324).pdf" style="text-decoration:none;">Search via Quantum Walk</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(325).pdf" style="text-decoration:none;">Improved quantum algorithms for the ordered search problem via semidefinite programming</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(326).pdf" style="text-decoration:none;">BQP-complete Problems Concerning Mixing Properties of Classical Random Walks on Sparse Graphs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(327).pdf" style="text-decoration:none;">Sequential Generation of Matrix-Product States in Cavity QED</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(328).pdf" style="text-decoration:none;"> Double Path Networks for Sequence to Sequence Learning</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(329).pdf" style="text-decoration:none;">Multilingual Neural Machine Translation with Task-Specific Attention</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(328).pdf" style="text-decoration:none;">An efficient quantum algorithm for the hidden subgroup problem in extraspecial groups</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(329).pdf" style="text-decoration:none;">Polynomial Quantum algorithms for additive approximations of the Potts model and other points of the Tutte plane</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(330).pdf" style="text-decoration:none;">deepQuest: A Framework for Neural-based Quality Estimation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(331).pdf" style="text-decoration:none;">Sentence Weighting for Neural Machine Translation Domain Adaptation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(332).pdf" style="text-decoration:none;">Neural Machine Translation Incorporating Named Entity</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(333).pdf" style="text-decoration:none;">Deconvolution-Based Global Decoding for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(330).pdf" style="text-decoration:none;">A Quantum Algorithm for the Hamiltonian NAND Tree</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(331).pdf" style="text-decoration:none;">Discrete-query quantum algorithm for NAND trees</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(332).pdf" style="text-decoration:none;">
+Limitations of some simple adiabatic quantum algorithms </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(333).pdf" style="text-decoration:none;">Every NAND formula of size N can be evaluated in time N<sup>1/2+o(1)</sup> on a quantum computer</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(334).pdf" style="text-decoration:none;">KIT Lecture Translator:
-Multilingual Speech Translation with One-Shot Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(334).pdf" style="text-decoration:none;">On the Exact Evaluation of Certain Instances of the Potts Partition Function by Quantum Computers</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(335).pdf" style="text-decoration:none;">HMM-Based Word Alignment in Statistical Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(335).pdf" style="text-decoration:none;">Efficient quantum processing
+of 3–manifold topological invariants</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(336).pdf" style="text-decoration:none;">Empirical Analysis of Beam Search Performance Degradation in Neural Sequence Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(336).pdf" style="text-decoration:none;">A theorem on the quantum evaluation of Weight Enumerators for a certain class of Cyclic Codes with a note on Cyclotomic cosets</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(337).pdf" style="text-decoration:none;">Statistical Approaches to Computer-Assisted Translation</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(337).pdf" style="text-decoration:none;">Quantum algorithms for the hidden subgroup problem on a class of semidirect product groups</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(338).pdf" style="text-decoration:none;">Online Learning for Statistical Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(338).pdf" style="text-decoration:none;">The Bayesian Learner is Optimal for Noisy Binary Search (and Pretty Good for Quantum as Well)</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(339).pdf" style="text-decoration:none;">Online Large-Margin Training for Statistical Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(339).pdf" style="text-decoration:none;">Primality Test Via Quantum Factorization</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(340).pdf" style="text-decoration:none;"> Indirect-HMM-based Hypothesis Alignment for Combining Outputs from Machine Translation Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(340).pdf" style="text-decoration:none;"> Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(341).pdf" style="text-decoration:none;">Forest-based Translation Rule Extraction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(342).pdf" style="text-decoration:none;">Recurrent Continuous Translation Models</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(343).pdf" style="text-decoration:none;">Zero-Resource Translation with Multi-Lingual Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(341).pdf" style="text-decoration:none;">Efficient Simulation of Quantum Systems by Quantum Computers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(342).pdf" style="text-decoration:none;">Simulations of Many-Body Quantum Systems by a Quantum Computer</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(343).pdf" style="text-decoration:none;">Tight bounds on
+quantum searching</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(344).pdf" style="text-decoration:none;">Memory-enhanced Decoder for Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(344).pdf" style="text-decoration:none;">A fast quantum mechanical algorithm for database search</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(345).pdf" style="text-decoration:none;">Variational Neural Machine Translation</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(346).pdf" style="text-decoration:none;">Coverage Embedding Models for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(347).pdf" style="text-decoration:none;">An Unsupervised Probability Model for Speech-to-Translation Alignment of Low-Resource Languages</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(345).pdf" style="text-decoration:none;">A quantum algorithm for finding the minimum</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(346).pdf" style="text-decoration:none;">Strengths and Weaknesses of Quantum Computing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(347).pdf" style="text-decoration:none;">Simulating Quantum Mechanics
+on a Quantum Computer</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(348).pdf" style="text-decoration:none;">Sequence-to-Sequence Learning as Beam-Search Optimization</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(348).pdf" style="text-decoration:none;">Simulation of Many-Body Fermi Systems on a Universal Quantum Computer</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(349).pdf" style="text-decoration:none;">Does String-Based Neural MT Learn Source Syntax?</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(349).pdf" style="text-decoration:none;">Quantum Algorithm for the Collision Problem</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(350).pdf" style="text-decoration:none;">Incorporating Discrete Translation Lexicons into Neural Machine Translation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(350).pdf" style="text-decoration:none;">Single quantum querying of a database</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(351).pdf" style="text-decoration:none;">Supervised Attentions for Neural Machine Translation</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(352).pdf" style="text-decoration:none;">Neural Machine Translation with Source-Side Latent Graph Parsing</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(351).pdf" style="text-decoration:none;">The quantum query complexity of approximating the median and related statistics</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(352).pdf" style="text-decoration:none;">Quantum Counting</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(353).pdf" style="text-decoration:none;">Neural Machine Translation with Word Predictions</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(353).pdf" style="text-decoration:none;">Calculating the Thermal Rate Constant with Exponential Speed-Up on a Quantum Computer</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(354).pdf" style="text-decoration:none;">Towards Decoding as Continuous Optimisation in Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(354).pdf" style="text-decoration:none;">Grover's Quantum Search Algorithm for an Arbitrary Initial Amplitude Distribution</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(355).pdf" style="text-decoration:none;">An empirical study on the effectiveness of images in Multimodal Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(355).pdf" style="text-decoration:none;">On Quantum Algorithms for
+Noncommutative Hidden Subgroups</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(356).pdf" style="text-decoration:none;">Incorporating Global Visual Features into Attention-Based Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(356).pdf" style="text-decoration:none;">Polynomial-Time Solution to the Hidden Subgroup Problem for a Class of non-abelian Groups</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(357).pdf" style="text-decoration:none;">Neural Lattice-to-Sequence Models for Uncertain Inputs</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(358).pdf" style="text-decoration:none;">Memory-augmented Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(359).pdf" style="text-decoration:none;">Dynamic Data Selection for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(360).pdf" style="text-decoration:none;">Neural Machine Translation Leveraging Phrase-based Models in a Hybrid Search</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(357).pdf" style="text-decoration:none;">Invariant Quantum Algorithms for
+Insertion into an Ordered List</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(358).pdf" style="text-decoration:none;">Quantum Computation and Quadratically Signed Weight Enumerators</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(359).pdf" style="text-decoration:none;">Quantum speed-up for unsupervised learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(360).pdf" style="text-decoration:none;">Quantum Query Complexity of Multilinear Identity Testing</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(361).pdf" style="text-decoration:none;">Translating Phrases in Neural Machine Translation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Algorithm-Papers/blob/master/ptl(362).pdf" style="text-decoration:none;">Towards Bidirectional Hierarchical Representations for Attention-Based Neural Machine Translation</a></li>
  
